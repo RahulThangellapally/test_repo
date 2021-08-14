@@ -1,1 +1,1 @@
-print("Hello world\nRunning from jenkins\nChnages done in github rules")
+print("Hello world\nRunning from jenkins\nChanges done in github rules\nCorrected the spelling")
