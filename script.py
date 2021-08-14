@@ -1,1 +1,1 @@
-print("Hello world\nrunning from jenkins")
+print("Hello world\nRunning from jenkins\nChnages done in github rules")
